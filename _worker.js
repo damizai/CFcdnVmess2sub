@@ -40,7 +40,7 @@ let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let vmessLinks = [ //本地CFcdnVmess节点池
 	//'vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRMUyIsDQogICJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiOTRjNmUxZDQtOWM1MC00NmIwLTlkNDctYmFhMGNkMWZkNTFiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2bWVzcy4yMDAwMzgueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2bWVzcy4yMDAwMzgueHl6IiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9tIg0KfQ',
 ];
-let vmessLinksURL = 'https://raw.githubusercontent.com/damizai/CFcdnVmess2sub/main/vmesslinks';//CFcdnVmess节点池URL
+let vmessLinksURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/vmesslinks';//CFcdnVmess节点池URL
 let proxyhosts = [//本地代理域名池
 	//'ppfv2tl9veojd-maillazy.pages.dev',
 ];
